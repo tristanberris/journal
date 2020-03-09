@@ -1,8 +1,14 @@
-body{
-  width: 50%;
-}
 
 .header{
   color:blue;
-background-position: 50%;
+  text-align: center;
+}
+
+.first-para{
+  text-align: center;
+  color: white;
+}
+
+body{
+  background-color: grey;
 }
